@@ -1,0 +1,24 @@
+{
+  "name": "4In-a-row-TESTS",
+  "version": "1.0.0",
+  "description": "repository for testing our 4 in a row Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZBejavu/4In-a-row-TESTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZBejavu/4In-a-row-TESTS/issues"
+  },
+  "homepage": "https://github.com/ZBejavu/4In-a-row-TESTS#readme",
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "puppeteer": "^5.3.1"
+  }
+}
