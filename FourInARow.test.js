@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-jest.setTimeout(6000);
+jest.setTimeout(8000);
 describe('App Test', () => {
     let browser;
     let page;
